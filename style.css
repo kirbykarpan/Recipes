@@ -1,0 +1,63 @@
+*{
+    background-color: rgb(172, 171, 172);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.menu-bar{
+    border:ridge;
+    border-width: 4px;
+    border-color:rgb(83, 121, 95);
+    text-align:center;
+}
+.menu-bar .menulink, .menu-bar {
+    background-color: rgb(151, 208, 232)
+}
+img{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    text-align:center;
+    border-width: 8 px;
+    border:solid;
+}
+
+.site-header{
+    background-color:rgb(151, 208, 232);
+    text-align: center;
+    margin:auto;
+    padding:1%;
+    border-radius: 8px;
+    border: groove rgb(75, 145, 110);
+    border-width: 5px 5px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.subheader{
+    background-color: rgb(64, 62, 63);
+    color:white;
+    margin:auto;
+    border-top:solid;
+    border-bottom:solid;
+    text-align:left;
+    text-shadow: 3px;
+    padding:4px;
+    display: inline-block;
+    font-size: larger;
+}
+.subheader-em {
+    background-color: rgb(64, 63, 62);
+}
+.food-title, h2 {
+    color:rgb(74, 92, 106);
+    text-transform:uppercase;
+}
+.burger-pic {
+   max-width: 50%;
+   height:auto;
+}
+h4 {
+    background-color: black;
+    color:blanchedalmond;
+    display:block;
+    padding:2%
+
+}
